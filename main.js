@@ -1,3 +1,3 @@
-function alert() {
-  alert("Hey, you clicked the button!")
+function alertUser() {
+  alert('You clicked the button');
 }
